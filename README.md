@@ -27,4 +27,4 @@ As a junior data analyst working in the marketing analyst team at Cyclistic I wi
 
     Cyclistic Executive team: They are responsible on deciding whether to approve the recommended marketing program.
 
-    Cyclistic marketing analytics team: a team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic     marketing strategy.
+    Cyclistic marketing analytics team: a team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
